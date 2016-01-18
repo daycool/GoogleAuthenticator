@@ -2,5 +2,5 @@
 GoogleAuthenticator 实现
 
 
-#SDemo
+###SDemo
 getGoogleCode('TTATN47PFLD6TEST')
